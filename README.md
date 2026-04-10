@@ -1,4 +1,3 @@
-
 # AutoStream AI Agent
 
 This project is a conversational AI agent built for a fictional SaaS product called AutoStream.
